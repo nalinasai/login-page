@@ -19,8 +19,8 @@ div{
     margin-bottom: 40px;
     max-width: 500px;
     color: black;
-    border-radius: 9px;
-    box-shadow: 0px 0px 20px 5px rgb(136, 186, 236);
+    border-radius: 15px;
+    box-shadow: 5px 5px  12px rgba(61, 61, 245, 0.45);
 
 }
 
@@ -60,5 +60,6 @@ label{
 
 input{
     height: 23px;
-    border-radius: 5px;
+    border-radius:9px;
+    width: 50%;
 }
